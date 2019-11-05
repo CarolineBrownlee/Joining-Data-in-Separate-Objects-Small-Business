@@ -1,0 +1,62 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Caroline Brownlee",
+            "departmentId": 1,
+            "computerId": 2
+        },
+        {
+            "id": 2,
+            "name": "Jane Brownlee",
+            "departmentId": 2,
+            "computerId": 1
+        },
+        {
+            "id": 3,
+            "name": "Annie Brownlee",
+            "departmentId": 2,
+            "computerId": 1
+        },
+        {
+            "id": 4,
+            "name": "Molly Brownlee",
+            "departmentId": 2,
+            "computerId": 1
+        },
+        {
+            "id": 5,
+            "name": "Joseph Brownlee",
+            "departmentId": 3,
+            "computerId": 3
+        }
+    ],
+    "departments": [
+        {
+            "id": 1,
+            "name": "Department of The Big Cheese"
+        },
+        {
+            "id": 2,
+            "name": "Department of Teenage Angst"
+        },
+        {
+            "id": 3,
+            "name": "Department of Fun, Games, and General Adorability"
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "type": "MacBook Air"
+        },
+        {
+            "id": 2,
+            "type": "MacBook Pro"
+        },
+        {
+            "id": 3,
+            "type": "iPad"
+        }
+    ]
+}
